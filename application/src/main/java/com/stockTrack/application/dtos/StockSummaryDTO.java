@@ -1,4 +1,4 @@
-package com.prodManager.application.dtos;
+package com.stockTrack.application.dtos;
 
 import lombok.Getter;
 

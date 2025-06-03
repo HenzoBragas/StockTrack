@@ -1,9 +1,8 @@
-package com.prodManager.application.controllers;
+package com.stockTrack.application.controllers;
 
-import com.prodManager.application.dtos.StockSummaryDTO;
-import com.prodManager.application.service.ProductService;
+import com.stockTrack.application.dtos.StockSummaryDTO;
+import com.stockTrack.application.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

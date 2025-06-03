@@ -1,4 +1,4 @@
-package com.prodManager.application.model;
+package com.stockTrack.application.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

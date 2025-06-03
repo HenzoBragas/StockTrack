@@ -1,7 +1,7 @@
-package com.prodManager.application.service;
+package com.stockTrack.application.service;
 
 
-import com.prodManager.application.repositories.ProductRepository;
+import com.stockTrack.application.repositories.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

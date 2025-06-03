@@ -1,4 +1,4 @@
-package com.prodManager.application;
+package com.stockTrack.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

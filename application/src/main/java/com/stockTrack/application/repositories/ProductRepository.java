@@ -1,6 +1,6 @@
-package com.prodManager.application.repositories;
+package com.stockTrack.application.repositories;
 
-import com.prodManager.application.model.Product;
+import com.stockTrack.application.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
