@@ -1,5 +1,5 @@
 # 📦 StockTrack
-API REST para gerenciamento básico de estoque e cadastro de produtos, permitindo operações de criação, leitura, atualização e exclusão (CRUD) de itens armazenados em banco de dados relacional.
+API REST básica para gerenciamento de estoque e cadastro de produtos, permitindo criar, listar, atualizar e deletar produtos. Também oferece endpoints para consultar o total de itens no estoque e o valor total financeiro do estoque, facilitando o controle e a análise rápida dos dados.
 
 ## 🎯 Objetivo do Projeto
 O projeto StockTrack foi desenvolvido com objetivo de facilitar o controle
