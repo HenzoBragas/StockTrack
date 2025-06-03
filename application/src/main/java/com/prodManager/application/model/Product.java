@@ -12,6 +12,8 @@ import lombok.Setter;
 @NoArgsConstructor
 @Entity(name = "product")//Anotação (Espeficicar o uso)
 @Table(name = "product")//Nome da tabela
+
+
 public class Product {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY) //Gere ids automaticos
