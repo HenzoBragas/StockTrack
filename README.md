@@ -13,8 +13,18 @@ framework **Spring Boot** no desenvolvimento de APIs RESTful.
 Com esta API, é possível:
 
 - 📌 **Cadastrar produtos**, como, nome, preço, quantidade
+
+
 - 📋 **Listar todos os produtos** cadastrados
+
+
 - 📝 **Atualizar informações** de um produto
+
+
 - 🗑️ **Deletar um produto** do estoque
+
+
 - 📦 **Listar o total de itens no estoque**
+
+
 - 💵 **Calcular o valor total do estoque**
